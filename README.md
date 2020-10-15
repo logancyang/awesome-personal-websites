@@ -12,6 +12,7 @@ Note:
 - This is not trying to be a "comprehensive" list of anything, just A list that I happen to come across and take notes.
 - I'll add more in the future.
 
+----
 
 [Alexander Rush](http://rush-nlp.com/)
 
