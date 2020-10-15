@@ -8,8 +8,9 @@ some are Twitter's favorite, rising stars in their fields; some are artists, You
 Some of the websites have great visuals, some have rich content, some have intriguing hooks to sell you their ideas or business, some are just cute. They all inspired me in different ways. Perhaps you will find them interesting and have new ideas about how to build your own.
 
 Note:
-- This list may be heavily biased toward ML researchers, engineers, data scientists because they make up most of the people I follow on Twitter for now.
-- I'll add more periodically in the future.
+- This list is heavily biased toward ML researchers, engineers, data scientists because they make up most of the people I follow on Twitter for now.
+- This is not trying to be a "comprehensive" list of anything, just A list that I happen to come across and take notes.
+- I'll add more in the future.
 
 [Alexander Rush](http://rush-nlp.com/)
 [Ali Abdaal](https://aliabdaal.com/)
