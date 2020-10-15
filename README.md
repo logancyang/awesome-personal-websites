@@ -208,6 +208,8 @@ Note:
 
 [Xinyu Tang](https://xinyutang-portfolio.herokuapp.com/)
 
+[Yihui Xie](https://yihui.org/en/about/)
+
 [Yining Shi](https://1023.io/)
 
 [Yue Li](https://www.yueli.art/)
