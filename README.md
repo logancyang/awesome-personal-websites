@@ -110,6 +110,8 @@ Note:
 
 [Julia Evans](https://jvns.ca/)
 
+[Justin Pinkney](https://www.justinpinkney.com/)
+
 [Kaiming He](http://kaiminghe.com/)
 
 [Keunwoo Choi](https://keunwoochoi.wordpress.com/)
