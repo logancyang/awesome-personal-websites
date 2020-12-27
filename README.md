@@ -14,6 +14,8 @@ Note:
 
 ----
 
+[Alex West](https://www.alexwest.co/) : entrepreneurship
+
 [Alexander Rush](http://rush-nlp.com/)
 
 [Ali Abdaal](https://aliabdaal.com/)
