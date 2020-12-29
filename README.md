@@ -14,7 +14,7 @@ Note:
 
 ----
 
-[Alex West](https://www.alexwest.co/) : entrepreneurship
+[Alex West](https://www.alexwest.co/): entrepreneurship
 
 [Alexander Rush](http://rush-nlp.com/)
 
@@ -173,6 +173,8 @@ Note:
 [Randall Kanna](https://randallkanna.com/)
 
 [Robert Hodgin](http://roberthodgin.com/)
+
+[Roman Ring](http://inoryy.com/): Research Engineer @DeepMind
 
 [Ruixin Zheng](https://www.ruixinzheng.com/)
 
