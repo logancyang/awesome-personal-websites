@@ -220,4 +220,6 @@ Note:
 
 [Yue Li](https://www.yueli.art/)
 
+[Yaner Firenze](https://firenze42.com/en/)
+
 [Zichen Wang](http://wangz10.github.io/)
