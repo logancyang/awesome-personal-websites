@@ -158,6 +158,8 @@ Note:
 
 [Nicholas Frosst](https://www.nickfrosst.com/)
 
+[Parish Khan](https://parish.cv/): Senior Software Developer — React, TypeScript, Frontend Architecture
+
 [Paul Copplestone](https://paul.copplest.one/blog/)
 
 [Phil Tabor](https://www.neuralnet.ai/)
