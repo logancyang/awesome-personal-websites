@@ -14,6 +14,8 @@ Note:
 
 ----
 
+[Aanand Madhav](https://aanandmadhav.com/)
+
 [Alex West](https://www.alexwest.co/): entrepreneurship
 
 [Alexander Rush](http://rush-nlp.com/)
