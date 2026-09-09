@@ -158,6 +158,9 @@ Note:
 
 [Nicholas Frosst](https://www.nickfrosst.com/)
 
+[Oliver Newth](https://n3wth.com/): AI product leader; notes at https://garden.n3wth.com
+
+
 [Paul Copplestone](https://paul.copplest.one/blog/)
 
 [Phil Tabor](https://www.neuralnet.ai/)
