@@ -120,6 +120,8 @@ Note:
 
 [Koh Achim](https://scalarvectortensor.net/)
 
+[Korey Wang Tianru](https://korey2028.tech)
+
 [Kyle Galbraith](https://www.kylegalbraith.com/)
 
 [Kyle McDonald](http://kylemcdonald.net/)
