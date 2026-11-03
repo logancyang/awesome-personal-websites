@@ -221,3 +221,5 @@ Note:
 [Yue Li](https://www.yueli.art/)
 
 [Zichen Wang](http://wangz10.github.io/)
+[Yorben Vander Sleyen](https://yorben.me/): Apple platform development, dark glass aesthetics, native macOS & iOS engineering
+
