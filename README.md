@@ -221,3 +221,4 @@ Note:
 [Yue Li](https://www.yueli.art/)
 
 [Zichen Wang](http://wangz10.github.io/)
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Native Swift software craftsman & creator of Needle.
